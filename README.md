@@ -28,10 +28,10 @@
 * **Biblux** — Interactive Bible study application built with React Native for iOS and Android
 
 <div align="center">
-  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/home-screen.png" alt="Biblux Home" width="200"/>
-  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/loading-screen.png" alt="Loading screen" width="200"/>
-  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/game-modes.png" alt="Modes" width="200"/>
-  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/challenge-mode.png" alt="Challenge" width="200"/>
+  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/home-screen.png" alt="Biblux Home" width="200"/>
+  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/loading-screen.png" alt="Loading screen" width="200"/>
+  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/game-modes.png" alt="Modes" width="200"/>
+  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/challenge-mode.png" alt="Challenge" width="200"/>
 </div>
   
   **Tech Stack:** React Native, TypeScript, Firebase, Expo  
