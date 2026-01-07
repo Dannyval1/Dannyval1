@@ -27,12 +27,12 @@
 ### 🎮 Personal Projects
 * **Biblux** — Interactive Bible study application built with React Native for iOS and Android
 
-  <div align="center">
-    <img src="https://github.com/Dannyval1/biblux/blob/main/screenshots/home-screen.png" alt="Biblux Home" width="200"/>
-    <img src="https://github.com/Dannyval1/biblux/blob/main/screenshots/loading-screen.png" alt="Loading screen" width="200"/>
-    <img src="https://github.com/Dannyval1/biblux/blob/main/screenshots/game-modes.png" alt="Modes" width="200"/>
-    <img src="https://github.com/Dannyval1/biblux/blob/main/screenshots/challenge-mode.png" alt="Challenge" width="200"/>
-  </div>
+<div align="center">
+  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/home-screen.png" alt="Biblux Home" width="200"/>
+  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/loading-screen.png" alt="Loading screen" width="200"/>
+  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/game-modes.png" alt="Modes" width="200"/>
+  <img src="https://github.com/Dannyval1/bibleGame/blob/main/screenshots/challenge-mode.png" alt="Challenge" width="200"/>
+</div>
   
   **Tech Stack:** React Native, TypeScript, Firebase, Expo  
   **Status:** 🚧 In Development (40% Complete)  
@@ -65,7 +65,7 @@
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannyval1&show_icons=true&theme=radical&count_private=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dannyval1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Current Goals
 
