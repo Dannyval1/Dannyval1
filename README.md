@@ -24,7 +24,7 @@
 **Previous - Banking Sector:**
 * **Microfrontends Architecture** — Webpack Module Federation implementation for scalable applications
 * **Enterprise Design System** — Component library development and cross-team adoption
-* **Full-Stack Development** — React, AWS (DynamoDB, Cloudfront, S3, Lambdas), Bootstrap, Sass, Jest testing, APIs consuming
+* **Full-Stack Development** — React, NodeJs, AWS (DynamoDB, Cloudfront, S3, Lambdas), Bootstrap, Sass, Jest testing, APIs consuming
 
 ### 🎮 Personal Projects
 * **Biblux** — Interactive Bible study application built with React Native for iOS and Android
