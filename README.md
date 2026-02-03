@@ -24,23 +24,22 @@
 **Previous - Banking Sector:**
 * **Microfrontends Architecture** — Webpack Module Federation implementation for scalable applications
 * **Enterprise Design System** — Component library development and cross-team adoption
-* **Full-Stack Development** — React, NodeJs, AWS (DynamoDB, Cloudfront, S3, Lambdas), Bootstrap, Sass, Jest testing, APIs consuming
+* **Full-Stack Development** — React, AWS (DynamoDB, Cloudfront, S3, Lambdas), Bootstrap, Sass, Jest testing, APIs consuming
 
 ### 🎮 Personal Projects
-* **Biblux** — Interactive Bible study application built with React Native for iOS and Android
 
-<div align="center">
-  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/home-screen.png" alt="Biblux Home" width="200"/>
-  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/loading-screen.png" alt="Loading screen" width="200"/>
-  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/game-modes.png" alt="Modes" width="200"/>
-  <img src="https://github.com/Dannyval1/profile-assets/blob/main/screenshots/challenge-mode.png" alt="Challenge" width="200"/>
-</div>
+* **Impostor Bíblico** — Interactive Bible-based deduction game for iOS and Android
+  
+  **Tech Stack:** React Native, TypeScript, Expo  
+  **Status:** ✅ Published on Apple Store  
+  **Repository:** [View on GitHub](https://github.com/Dannyval1/impostor-biblico)  
+  **Download:** [App Store](https://apps.apple.com/app/id6758225650) - [Play Store](It's being reviewed yet)
+
+* **Biblux** — Interactive Bible study application built with React Native for iOS and Android
   
   **Tech Stack:** React Native, TypeScript, Firebase, Expo  
   **Status:** 🚧 In Development (40% Complete)  
   **Repository:** [View on GitHub](https://github.com/Dannyval1/bibleGame)
-
-  Features implemented: User authentication, quiz categories, score tracking, responsive design
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +50,7 @@
 - Microfrontends (Webpack Module Federation)
 - Design Systems & Component Libraries  
 - Storybook Documentation
-- Bootstrap & Sass & Tailwind
+- Bootstrap & Sass & Tailwind & Material Design
 - Jest Testing Framework
 
 **Backend & Database:**
